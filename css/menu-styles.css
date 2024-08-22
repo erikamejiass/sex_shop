@@ -1,0 +1,60 @@
+* {
+    padding: 0px;
+    margin: 0px;
+
+}
+
+
+.imagen-logo{
+    width: 70%;
+    height: 70%;
+    border-radius: 30px;
+}
+
+.imagen-logo:hover{
+    height: 80px;
+    width: 80px;
+}
+
+.imagen-logo img{
+    width: 100%;
+    border-radius: 30px;
+    box-shadow: -6px 6px 6px #ec4b4b;
+}
+
+.caja-menu-principal{
+width: 90%;
+background-color: rgb(3, 3, 3);
+height: 30%;
+margin: 0 auto;
+border-radius: 30px;
+border: 1px solid #333;
+box-shadow: 12px 12px 12px #ec4b4b;
+padding: 4px;
+}
+
+.caja-menu-principal button:hover{
+font-size: 18px;
+background-color: #f17171;
+}
+
+.caja-menu-principal label:hover{
+    color:black;
+}
+
+.menu-titulo{
+    color: beige;
+    line-height: 50px;
+    text-shadow: 6px 8px 8px #ec4b4b;
+}
+
+.menu-titulo:hover{
+    font-size: 46px;
+
+}
+
+.btn-group{
+    margin-top: 3px;
+    box-shadow: -4px 4px 4px #ec4b4b;
+
+}
