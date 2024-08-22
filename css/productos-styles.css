@@ -1,0 +1,43 @@
+.caja-grande{
+    background-color: rgb(203, 255, 196);
+    width: 90%;
+    height: 500px;
+    margin: 0 auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    display: flex;
+
+}
+
+
+body{
+    background-color: rgb(22, 21, 21);
+}
+
+.caja-pequena1{
+background-color: blue;
+max-height: 550px;
+max-width: 73%;
+width: 80%;
+min-height: 100%;
+border: 2px solid blanchedalmond;
+}
+
+.caja-pequena2{
+    background-color: blueviolet;
+    width: 30%;
+    height: 500px;
+    padding: 18px;
+    text-align: justify;
+    overflow: hidden;
+    overflow-y: scroll;
+    font-size: 16px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:aliceblue;
+
+}
+
+.caja-pequena2 h1{
+    text-align: center;
+    
+}

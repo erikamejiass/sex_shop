@@ -1,0 +1,26 @@
+body{
+    background-color: gray;
+}
+
+.caja-grande{
+    background-color: black;
+    width: 80%;
+    height: 500px;
+    margin: 0 auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    display: flex;
+}
+
+.caja-peque1{
+    background-color: azure;
+    width: 50%;git remote -v
+    height: 100%;
+    padding: 10%;
+}
+
+.caja-peque2{
+    background-color: rgb(11, 117, 117);
+    width: 50%;
+    height: 100%;
+}
